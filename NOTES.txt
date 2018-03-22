@@ -1,0 +1,19 @@
+npm install --save-dev enzyme-to-json@next
+
+"snapshotSerializers": [
+      "enzyme-to-json/serializer"
+    ],
+
+yarn add enzyme-adapter-react-16
+
+https://github.com/RealOrangeOne/react-native-mock/issues/129
+
+https://www.npmjs.com/package/@jonny/react-native-mock
+
+yarn add @jonny/react-native-mock 
+import '@jonny/react-native-mock/mock'
+require('@jonny/react-native-mock/mock'); 
+
+
+
+https://github.com/FormidableLabs/enzyme-matchers

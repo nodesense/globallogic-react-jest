@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CartItem Snapshot 1`] = `
+<react-native-mock>
+  <react-native-mock>
+     
+    Product 1
+     
+  </react-native-mock>
+  <react-native-mock />
+  <react-native-mock>
+     Qty: 
+    10
+  </react-native-mock>
+  <react-native-mock>
+     Price: 
+    100
+  </react-native-mock>
+  <react-native-mock>
+     Total: 
+    1000
+  </react-native-mock>
+  <react-native-mock />
+  <react-native-mock />
+</react-native-mock>
+`;
