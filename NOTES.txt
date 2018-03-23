@@ -1,3 +1,6 @@
+To remove snapshot `npm test -- -u` to remove them
+
+
 npm install --save-dev enzyme-to-json@next
 
 "snapshotSerializers": [

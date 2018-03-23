@@ -37,5 +37,18 @@ function MyComponent() {
         <Text className="heading">Title</Text>,
         <Subcomponent foo="bar" />
         ]);
+ 
 
   })
+
+  xit("renderer ", () => {
+
+        const tree = renderer.create(
+            <MyComponent />
+          );
+ 
+        expect(tree.root).toEqual([
+          <Text className="heading">Title</Text>,
+          <Subcomponent foo="bar" />
+          ]);
+  });
